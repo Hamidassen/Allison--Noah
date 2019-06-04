@@ -24,8 +24,7 @@
 
 <script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.6.0/aframe/build/aframe-ar.js"></script>
 
-<body style= 'margin : 0px; overflow: hidden'>
-  
+<body style= "margin : 0px; overflow: hidden">
 <a-assets>
         <video 
                id= "alpha" 
